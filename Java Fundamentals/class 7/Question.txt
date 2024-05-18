@@ -1,0 +1,13 @@
+1. Write a Java Program to check number is even or odd.
+2. Write a java program to check number is prime or not.
+3. write a java program to check number is div by 5.
+4. write a java program to check given input Character or digit.
+use with switch case:- 
+5. Write a java Program to take input from user as eg 1,2......10 (2 -- two)(3-->three)..more.
+6. write a java program to take two input n1 and n2 the show msg to user
+ (enter 1 from add)
+ (enter 2 from sub)
+ (enter 3 from mult)
+ (enter 4 from divide)
+7. Write a java program to take input
+    enter number for which you want table [1--5] (if 2 enter 2 ka table)(if 3 enter 3 ka table)
