@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>pattern</title>
+</head>
+<body>
+  
+  <script>
+    function pattern(n){
+  for(let i = 0; i < n; ++i){
+    for(let j = 0; j < i + 1; ++j){
+         document.writeln("*")
+    }
+    document.write("<br>")
+  }
+}
+
+let n = parseInt(prompt('Enter rows number:'),10);
+if(!isNaN(n) && n > 0){
+  pattern(n);
+}else{
+  document.write("Please enter a valid positive number.");
+}
+  </script>
+
+</body>
+</html>

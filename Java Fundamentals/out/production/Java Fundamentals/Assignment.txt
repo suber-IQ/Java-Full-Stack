@@ -1,0 +1,20 @@
+1. wjp to read shoes brand from user and print slogan
+  Nike -> just do it
+  Adidas -> impossible nothing
+
+2. wjp to read a person basic salary and cal PF amount from the BS?
+  formula : PF is 12% of BS
+
+3. Java program to find factorial of given number?
+4.  write a java program to numbers from 1 to 100?
+
+
+
+// Array Question
+
+1. wjp to print array?
+2. wjp to sum of array? 
+3. wjp to reverse a array? 
+4. wjp to find min and max element of an array? 
+5. wjp to find second min and second max element of an array? 
+

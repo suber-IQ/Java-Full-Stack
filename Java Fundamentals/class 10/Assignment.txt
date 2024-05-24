@@ -1,0 +1,8 @@
+1. wjp to combine two
+2. wjp to reverse a string
+3. wjp to check given string is palindrome or not
+4. wjp to remove all occurrence of given char
+5. wjp to count numbers of words in string
+6. wjp to compare to string
+7. wjp to check first string is present in second string
+8. wjp to find the char occurrence given by user
