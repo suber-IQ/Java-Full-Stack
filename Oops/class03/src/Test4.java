@@ -1,12 +1,13 @@
-public class A {
-    String city;
+class Animal {
+    String name;
 }
 
-class B extends A{
-    String city;
+class Dog extends Animal{
+    String name;
     void print(){
-        super.city = "mumbai";
-        city = "delhi";
+        super.name = "Animal";
+        name = "puppy";
+        System.out.println("Animal  = " + super.name + " ,Dog = " + this.name);
     }
 
 }
@@ -14,6 +15,7 @@ class B extends A{
 
 public class Test4{
     public static void main(String[] args) {
-        
+        Dog d1 = new Dog();
+        d1.print();
     }
 }
